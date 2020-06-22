@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.9.16)  19 JUN 2020 19:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.9.16)  22 JUN 2020 09:55
 entering extended mode
 **./presentation.tex
 (presentation.tex
@@ -201,98 +201,45 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-(page_garde.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-<garde/epac.png, id=1, 188.705pt x 144.54pt>
-File: garde/epac.png Graphic file (type png)
-<use garde/epac.png>
-Package pdftex.def Info: garde/epac.png  used on input line 4.
-(pdftex.def)             Requested size: 96.73929pt x 79.66705pt.
-<garde/N.png, id=2, 196.735pt x 196.735pt>
-File: garde/N.png Graphic file (type png)
-<use garde/N.png>
-Package pdftex.def Info: garde/N.png  used on input line 6.
-(pdftex.def)             Requested size: 85.35687pt x 71.13072pt.
-
-Overfull \hbox (361.86612pt too wide) in paragraph at lines 3--9
- [] 
- []
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 				\\
-           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-0.def"
+(page_garde.tex ("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [1
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 33.
 
-{C:/Users/Saad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./garde/epac
-.png> <./garde/N.png>]) (introduction.tex ("C:\Program Files\MiKTeX 2.9\tex/lat
-ex/ucs\uni-32.def"
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-))
 [1
+
+{C:/Users/Saad/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+(introduction.tex) [1
 
 ] (generalite.tex [2
 
+]) [3] (file.tex) [4
+
 ]
-<images/cap.png, id=23, 731.73375pt x 382.42876pt>
-File: images/cap.png Graphic file (type png)
-<use images/cap.png>
-Package pdftex.def Info: images/cap.png  used on input line 55.
-(pdftex.def)             Requested size: 365.86598pt x 191.2139pt.
-
-Overfull \hbox (20.86598pt too wide) in paragraph at lines 55--56
- [][] 
- []
-
-
-Overfull \hbox (32.73625pt too wide) in paragraph at lines 51--57
-[]\T1/cmr/m/n/10 Sur Li-nux : al-ler sur le site \T1/cmr/bx/n/10 https ://docs.
-docker.com/install/linux/docker-
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3] [4 <./images/cap.png>]) [5] (file.tex) [6
-
-] (presentation.aux) ) 
+(presentation.aux) ) 
 Here is how much of TeX's memory you used:
- 3967 strings out of 492945
- 54387 string characters out of 3135516
- 128682 words of memory out of 3000000
- 7809 multiletter control sequences out of 15000+200000
- 13531 words of font info for 27 fonts, out of 3000000 for 9000
+ 3688 strings out of 492945
+ 51181 string characters out of 3135516
+ 126682 words of memory out of 3000000
+ 7542 multiletter control sequences out of 15000+200000
+ 10589 words of font info for 23 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,31p,684b,566s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecbi1440.pk> <C:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Saad\AppData\Local\MiKTeX\2.
-9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Saad\AppData\Local\
-MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Saad\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\S
-aad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C
-:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc10
-00.pk> <C:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi6
-00\ecrm1000.pk> <C:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecbl1000.pk> <C:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecbx1000.pk>
-Output written on presentation.pdf (7 pages, 152060 bytes).
+ 41i,6n,31p,768b,566s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx1440.pk> <C:\Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Saad\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\Saad\AppData\Local\Mi
+KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Saad\AppData
+\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Saa
+d\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbl1000.pk> <C:\
+Users\Saad\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000
+.pk>
+Output written on presentation.pdf (5 pages, 64269 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
+ 209 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
